@@ -1,1 +1,1 @@
-#####Movie ratings analysis project using apache spark sql, clustering
+# Movie ratings analysis project using spark sql and clustering
